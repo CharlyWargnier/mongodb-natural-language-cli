@@ -111,12 +111,3 @@ node mongo-openai-query.js
 ## 🙋 Need help?
 
 Open an issue or tag [@datachaz] on Twitter/X.
-
----
-
-## ✅ Summary
-
-| Feature | Where it's configured |
-|--------|------------------------|
-| MongoDB URI | `mcp.config.json` + `MDB_PASSWORD` |
-| OpenAI key  | `.env` → `OPENAI_API_KEY` |
