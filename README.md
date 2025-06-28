@@ -1,13 +1,8 @@
-<div align="center">
+# 🧠 MongoDB Natural Language CLI
 
-# 🧠 MongoDB Natural Language Query Interface (powered by OpenAI)
+A lightweight CLI demo showing how to use the [MongoDB MCP Server](https://fnf.dev/4jDW43H) to query your MongoDB database using natural language — the same mechanism used by MCP-compatible IDEs like Windsurf, Cursor, or Claude Desktop.
 
-A CLI tool to query your MongoDB database using natural language via OpenAI — created by [Charly Wargnier](https://www.linkedin.com/in/charlywargnier/).
-
-🔗 [Follow me on Twitter/X](https://x.com/DataChaz)  
-📌 [View the tutorial thread](https://x.com/your-thread-placeholder) <!-- Replace this when ready -->
-
-</div>
+📌 Created by [Charly Wargnier](https://x.com/DataChaz) ** [View the tutorial thread on X](https://x.com/your-thread-placeholder) <!-- Replace this when ready -->
 
 ## 📦 How it works
 
