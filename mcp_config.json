@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "MongoDB": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mongodb-mcp-server",
+        "--connectionString",
+        "mongodb+srv://<username>:<password>@<your-cluster>.mongodb.net/?retryWrites=true&w=majority&appName=<your-app>"
+      ],
+      "env": {
+        "MDB_PASSWORD": "<your-password>"
+      }
+    }
+  }
+}
