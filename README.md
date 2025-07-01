@@ -2,7 +2,7 @@
 
 A lightweight CLI demo showing how to use the [MongoDB MCP Server](https://fnf.dev/4jDW43H) to query your MongoDB database using natural language — the same mechanism used by MCP-compatible IDEs like Windsurf, Cursor, or Claude Desktop.
 
-📌 Created by [Charly Wargnier](https://x.com/DataChaz) · [View the tutorial thread on X](https://x.com/your-thread-placeholder)
+📌 Created by [Charly Wargnier](https://x.com/DataChaz) · [View the tutorial thread on X]([https://x.com/your-thread-placeholder](https://x.com/DataChaz/status/1940052495939903598))
 
 ---
 
